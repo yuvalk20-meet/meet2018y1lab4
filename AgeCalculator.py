@@ -1,0 +1,5 @@
+firstn = input("What's your name? ")
+lastn = input("What's your last name? ")
+age = int(input("What's your age? "))
+print("Name " + firstn[0].upper() + '. ' + lastn.capitalize())
+print("Age in Minutes : " + str(age*52*7*24*60))

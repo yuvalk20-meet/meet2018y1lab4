@@ -1,4 +1,4 @@
-new_fruit = input('What fruit am I storing')
+new_fruit = input('What fruit am I storing? ')
 if new_fruit == 'Apple':
     print('Bin 1')
 if new_fruit == 'Oranges':
